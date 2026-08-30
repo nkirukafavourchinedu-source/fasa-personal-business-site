@@ -30,3 +30,4 @@ The supplied CV/life-story document is available at `public/docs/Ochiagha-Nkiruk
 
 ## Chatbot
 The floating FASA AI Assistant has a safe built-in fallback. For AI mode, use a server-side OpenAI API key. Do not place the key in React code, HTML or any public repository.
+Website deployment setup.
